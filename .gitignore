@@ -171,3 +171,14 @@ reflex-gpt
 reflex-gpt.pub
 devops/vars.yaml
 inventory.ini
+*.json
+/.vs/slnx.sqlite
+/.vs/akd-reflex-gpt/v17/.wsuo
+/.vs/akd-reflex-gpt/CopilotIndices/0.2.1657.32929/CodeChunks.db-shm
+/.vs/akd-reflex-gpt/CopilotIndices/0.2.1657.32929/CodeChunks.db-wal
+/.vs/akd-reflex-gpt/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-shm
+/.vs/akd-reflex-gpt/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-wal
+/.vs/akd-reflex-gpt/FileContentIndex/19edfcd8-ddb9-454a-84cf-9ece08ac2236.vsidx
+/.vs/akd-reflex-gpt/FileContentIndex/96f76d78-4c31-46e1-8b70-e7e094674e83.vsidx
+/.vs/akd-reflex-gpt/FileContentIndex/4898b99b-57b9-4d2f-bf2a-409df08d41b3.vsidx
+*.vsidx
